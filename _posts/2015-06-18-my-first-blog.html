@@ -1,13 +1,31 @@
 ---
 layout: default
-title: 你好，世界
+title: To：董苗苗
 ---
 
 <h2>{{ page.title }}</h2>
 
-<p>我的第一篇文章</p>
+<!-- <p>我的第一篇文章</p> -->
 
 <p>{{ page.date | date_to_string }}</p>
+
+
+<div class="row zhaiDiv">
+	<div class="col-md-4 top-title">
+		<h2>文章列表</h2> 
+	</div>
+	<div class="col-md-8">
+		<ul class="tech-list clearfix">
+			<li class="pull-left active"><a href="">全部</a></li>
+			<li class="pull-left"><a href="">前端</a></li>
+			<li class="pull-left"><a href="">IOS</a></li>
+			<li class="pull-left"><a href="">后台</a></li>
+		</ul>
+	</div>
+</div>
+
+
+
 <canvas id="c"></canvas>  
 <script>  
 var b = document.body;  
