@@ -1,15 +1,15 @@
 # PanwayBlog
-# blog
+
+
+# Tool 
+## Image Process 🏞
+[⭐️⭐️⭐️⭐️⭐️谷歌最新在线图片压缩工具Squoosh](https://squoosh.app)  [介绍](https://zhuanlan.zhihu.com/p/49908503) [GithubRepo](https://squoosh.app)
 
 ## Mac
 动态屏保
 
 [让你的 Mac 用上最美的屏保 - Aerial](https://sspai.com/post/39000)
 [Aerial Github Homepage](https://github.com/JohnCoates/Aerial)
-
-## Image Process
-[⭐️⭐️⭐️⭐️⭐️谷歌最新在线图片压缩工具](https://squoosh.app)   [GithubRepo](https://squoosh.app)
-
 
 ## ADBlock
 [FuckCSDN.com](https://fuckcsdn.com/)
